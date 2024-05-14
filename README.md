@@ -13,7 +13,27 @@
   
 </div>
 
-Linear Regression Quiz
+This repository contains a simple implementation of linear regression using the scikit-learn library in Python.
+
+## Overview
+Linear regression is a fundamental technique in statistics and machine learning for modeling the relationship between a dependent variable and one or more independent variables. It assumes a linear relationship between the input variables (features) and the output variable (target).
+
+In this repository, we demonstrate how to perform linear regression using the scikit-learn library, which is a powerful tool for machine learning in Python. We provide a simple example along with explanations to help you understand how to apply linear regression to your own datasets.
+
+## Requirements
+To run the code in the Jupyter Notebook, you need to have Python installed on your system along with the following libraries:
+
+* NumPy
+* pandas
+* scikit-learn
+* matplotlib
+You can install these libraries using pip:
+
+```bash
+pip install numpy pandas scikit-learn matplotlib
+```
+
+## Working steps
 In this quiz, you'll be working with data on the average life expectancy at birth and the average BMI for males across the world. The data comes from Gapminder(opens in a new tab).
 
 The data file can be found under the "bmi_and_life_expectancy.csv" tab in the quiz below. It includes three columns, containing the following data:
@@ -34,3 +54,10 @@ Fit the model to the data.
 3. Predict using the model
 
 Predict using a BMI of 21.07931 and assign it to the variable laos_life_exp.
+
+## Acknowledgements
+
+- [scikit-learn](https://scikit-learn.org/): The scikit-learn library for machine learning in Python.
+- [NumPy](https://numpy.org/): The NumPy library for numerical computing in Python.
+- [pandas](https://pandas.pydata.org/): The pandas library for data manipulation and analysis in Python.
+- [matplotlib](https://matplotlib.org/): The matplotlib library for data visualization in Python.
