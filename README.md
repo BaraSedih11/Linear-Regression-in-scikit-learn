@@ -22,7 +22,7 @@ In this repository, we demonstrate how to perform linear regression using the sc
 
 ## Contents
 
-- `Linear_Regression_in_scikit_learn.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
+- `Linear Regression.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
 - `bmi_and_life_expectancy.csv`: Sample dataset used in the notebook for demonstration purposes.
 - `README.md`: This file providing an overview of the repository.
 
