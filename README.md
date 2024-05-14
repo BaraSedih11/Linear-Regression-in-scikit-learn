@@ -20,6 +20,13 @@ Linear regression is a fundamental technique in statistics and machine learning 
 
 In this repository, we demonstrate how to perform linear regression using the scikit-learn library, which is a powerful tool for machine learning in Python. We provide a simple example along with explanations to help you understand how to apply linear regression to your own datasets.
 
+## Contents
+
+- `Linear_Regression_in_scikit_learn.ipynb`: Jupyter Notebook containing the implementation of polynomial regression using Python.
+- `bmi_and_life_expectancy.csv`: Sample dataset used in the notebook for demonstration purposes.
+- `README.md`: This file providing an overview of the repository.
+
+
 ## Requirements
 To run the code in the Jupyter Notebook, you need to have Python installed on your system along with the following libraries:
 
