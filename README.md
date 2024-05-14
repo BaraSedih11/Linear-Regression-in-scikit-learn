@@ -1,4 +1,17 @@
-# Linear-Regression-in-scikit-learn
+
+<div align=center>
+  
+  ![Linear_Regression_in_Sckit-learn](https://github.com/BaraSedih11/Linear-Regression-in-scikit-learn/assets/98843912/ec4a6dcb-f8c6-4808-b159-bb75eaaf95ba)
+
+
+   ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/Linear-Regression-in-scikit-learn) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/Linear-Regression-in-scikit-learn) [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
+[![Pip Version](https://img.shields.io/badge/pip-21.0-orange)](https://pypi.org/project/pip/21.0/)
+ ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/Linear-Regression-in-scikit-learn/main)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/Linear-Regression-in-scikit-learn/releases/tag/v1.0.0)
+[![Contributors](https://img.shields.io/github/contributors/BaraSedih11/Linear-Regression-in-scikit-learn)](https://github.com/BaraSedih11/Linear-Regression-in-scikit-learn/graphs/contributors)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/Linear-Regression-in-scikit-learn)
+  
+</div>
 
 Linear Regression Quiz
 In this quiz, you'll be working with data on the average life expectancy at birth and the average BMI for males across the world. The data comes from Gapminder(opens in a new tab).
