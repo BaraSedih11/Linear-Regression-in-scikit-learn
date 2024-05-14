@@ -33,27 +33,24 @@ You can install these libraries using pip:
 pip install numpy pandas scikit-learn matplotlib
 ```
 
-## Working steps
-In this quiz, you'll be working with data on the average life expectancy at birth and the average BMI for males across the world. The data comes from Gapminder(opens in a new tab).
+## Usage
 
-The data file can be found under the "bmi_and_life_expectancy.csv" tab in the quiz below. It includes three columns, containing the following data:
+1. Clone this repository to your local machine:
 
-Country – The country the person was born in.
-Life expectancy – The average life expectancy at birth for a person in that country.
-BMI – The mean BMI of males in that country.
-You'll need to complete each of the following steps:
-1. Load the data
+```bash
+git clone https://github.com/BaraSedih11/Linear-Regression-in-scikit-learn.git
+```
 
-The data is in the file called "bmi_and_life_expectancy.csv".
-Use pandas read_csv(opens in a new tab) to load the data into a dataframe (don't forget to import pandas!)
-Assign the dataframe to the variable bmi_life_data.
-2. Build a linear regression model
+2. Navigate to the repository directory:
 
-Create a regression model using scikit-learn's LinearRegression(opens in a new tab) and assign it to bmi_life_model.
-Fit the model to the data.
-3. Predict using the model
+```bash
+cd Linear-Regression-in-scikit-learn
+```
 
-Predict using a BMI of 21.07931 and assign it to the variable laos_life_exp.
+3. Open and run the Jupyter Notebook `Linear-Regression-in-scikit-learn.ipynb` using Jupyter Notebook or JupyterLab.
+
+4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+
 
 ## Acknowledgements
 
