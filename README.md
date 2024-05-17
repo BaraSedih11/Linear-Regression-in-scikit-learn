@@ -7,7 +7,7 @@
    ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/Linear-Regression-in-scikit-learn) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/Linear-Regression-in-scikit-learn) [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 [![Pip Version](https://img.shields.io/badge/pip-21.0-orange)](https://pypi.org/project/pip/21.0/)
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/Linear-Regression-in-scikit-learn/main)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/Linear-Regression-in-scikit-learn/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/Linear-Regression-in-scikit-learn/releases/tag/v1.0.0)
 [![Contributors](https://img.shields.io/github/contributors/BaraSedih11/Linear-Regression-in-scikit-learn)](https://github.com/BaraSedih11/Linear-Regression-in-scikit-learn/graphs/contributors)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/Linear-Regression-in-scikit-learn)
   
@@ -56,7 +56,7 @@ cd Linear-Regression-in-scikit-learn
 
 3. Open and run the Jupyter Notebook `Linear-Regression-in-scikit-learn.ipynb` using Jupyter Notebook or JupyterLab.
 
-4. Follow along with the code and comments in the notebook to understand how polynomial regression is implemented using Python.
+4. Follow along with the code and comments in the notebook to understand how linear regression is implemented using Python.
 
 
 ## Acknowledgements
